@@ -5,7 +5,7 @@ ___
 
 ## Introduction:
 
-Understanding cardiovascular disease risk factors, early detection techniques, and viable therapies is crucial because they are a primary cause of mortality worldwide. This research is a detailed investigation of a dataset that has been carefully selected and contains a wide range of cardiovascular health-related characteristics. We hope to shed light on important facets of this important health issue through data research, visualisation, and statistical analysis. 
+Understanding cardiovascular disease risk factors, early detection techniques, and viable therapies is crucial because they are a primary cause of mortality worldwide. This research is a detailed investigation of a dataset that has been carefully selected and contains a wide range of cardiovascular health-related characteristics. I hope to shed light on important facets of this important health issue through data research, visualisation, and statistical analysis. 
 
 ## Problem Statement: 
 1. What is the percentage alcohol consumption of both genders?
