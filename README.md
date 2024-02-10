@@ -14,7 +14,7 @@ Understanding cardiovascular disease risk factors, early detection techniques, a
 4. Total number of individuals that had cardiovascular disease?
 5. Any further pertinent data-driven insights on cardiovascular disease risk prediction report?
 
-## Skills Demonstated:
+## Skills Demonstrated:
 
 1. Dax
 2. Filter
